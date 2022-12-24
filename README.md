@@ -2,6 +2,8 @@
 
 프로젝트 및 게임실행 링크: https://drive.google.com/drive/folders/15kJTnaP-7yTzVGXphoQLqqep4yAi_UUA?usp=share_link
  
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/pHRYOATDlbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 <img src="./images/image (1).png">
 <img src="./images/image (2).png">
 <img src="./images/image (3).png">
